@@ -1,0 +1,32 @@
+.logo{
+    width: 180px;
+    padding: 10px;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.logoIco{
+    width: 46px;
+    height: 46px;
+    border-radius: 10px;
+    background-color: #00be8e;
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    font-family: "Arial";
+    font-weight: bold;
+    float: left;
+}
+.logoText{
+    font-size: 30px;
+    height: 46px;    
+    color: #d1071e;
+    font-family: "Arial";
+    font-weight: bold;
+    float: left;
+    margin-left: 10px;
+}
+.navRight{
+    float: right;
+    color: #00be8e;
+}
